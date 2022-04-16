@@ -18,6 +18,7 @@ Here are some resources to learn about them:
 ### Using Dataset from this git repo:
 https://github.com/jeandeducla/ML-Time-Series
 
+Refer to this github for more in depth information about the data and methodologies. Most of the approaches were pretty similar except feature extractions.
 
 ### Original Dataset:
 https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -33,7 +34,7 @@ The models performance are stored by date and time for everytime the model runs
 Note: Running tensorboard directly on the notebook is possible but might not display correctly in the IPython output. Recommended to run it directly from the terminal.
 
 ## To run this notebook
-This notebook was run using Python version 3.9.7 and all other version of Python are untested
+This notebook was run using **Python version 3.9.7** and all other version of Python are untested
 1. Clone this repo
 2. (Optional) Create a virtual env
 3. Download package dependancies using ```pip install -r requirements.txt```
